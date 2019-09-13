@@ -7,9 +7,9 @@ To get started:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+    git clone https://github.com/jackcoral89/tailwind-css-playground.git
 
-    cd tailwindcss-playground
+    cd tailwind-css-playground
     ```
 
 2. Install the dependencies:
